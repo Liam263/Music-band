@@ -19,7 +19,7 @@ This web application was developed as a responsive single-page application using
 - **Form Validation:** Ensure data integrity with form validation, including phone and email requirements, and a maximum length of 200 characters for messages.
 
 ## Usage
-### Have a look at the project by click: 
+### Have a look at the project: 
     https://liam263.github.io/Music-band/
 To run the project locally:
 
